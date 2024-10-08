@@ -1,5 +1,3 @@
 # Ola. Mundo
 
-Primeiro repositório
-
-kkk alterado
+Aprendizado da aula, criando repositório.
